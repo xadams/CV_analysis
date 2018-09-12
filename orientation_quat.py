@@ -2,12 +2,34 @@
 import os
 import subprocess
 import sys
+import argparse
 from pathlib import Path
+
+__author__ = 'xadams'
 
 DEF_TOP = ['../protein.psf','protein.psf','../step5_assembly.xplor_ext.psf']
 IF_FILES = ['../protein.psf', '../inoc_glucose.psf']
 OF_FILES = ['protein.psf', 'protg.psf']
 OUT_FILE = 'orientation_quat.log'
+
+def parse_cmdline(argv):
+    """
+    Returns the parsed argument list and return code.
+    'argv' is a list of arguments, or 'None' for 'sys.argv[1:]".
+    """
+
+    if argv is None:
+        argv - sys.argv[1:]
+
+    # initialize the parser object:
+    parser = argparse.ArgumentParser(description='Perform a specified number of CV analyses.')
+
+    parser.add_argument("-q" "--quat", help="Flag for 2-domain quaternion analysis.", action='store_true', default=False)
+    parser.add_argument("-r" "--reverse", help="Flag for 2-domain quaternion analysis with inward reference structure", action='store_true', default=False)
+    parser.add_argument("-f" "--full", help="Flag for 12 helix quaternion analysis.", action='store_true', default=False)
+    parser.add_argument("-d" "--double", help="Flag for 12 helix quaternion analysis with both reference structures.", action='store_true', default=False)
+    parser.add_argument("-g" "--gating", help="Flag for 2-gating distance analysis.", action='store_true', default=False)
+    parser.add_argument("-c" "--cartesian", help="Flag for full cartesian measurement of all alpha carbons.", action='store_true', default=False)
 
 # Read in the home directory
 home = str(Path.home())
@@ -44,3 +66,14 @@ else:
     exit(3)
 
 subprocess.call(["vmd", "-e", "/home/xadams/bin/orientation_quat.tcl", argv[0], argv[1], "-args", CV_IN])
+
+def main(argv=None):
+    # Read input
+    args, ret = parse_cmdline(argv)
+
+    if ret != GOOD_RET or args is None:
+        return ret
+
+if __name__ == '__main__':
+    status = main()
+    sys.exit(status)
