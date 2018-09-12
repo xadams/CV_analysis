@@ -2,7 +2,8 @@
 # requires eq.pdb as a reference
 cv molid top
 cv configfile /home/xadams/bin/orientation_full_double.in
-set file [open "orientation_full_double.log" w]
+set basename "orientation"
+set file [open "${basename}_full.log" w]
 puts -nonewline $file [cv printframelabels]
 set n [expr {int([molinfo top get numframes])}]
 for {set i 0 } { $i < $n } { incr i } {
