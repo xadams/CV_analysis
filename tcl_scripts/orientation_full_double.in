@@ -25,10 +25,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -55,10 +55,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -85,10 +85,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -115,10 +115,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -145,10 +145,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -175,10 +175,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -205,10 +205,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -235,10 +235,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -265,10 +265,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -295,10 +295,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -325,10 +325,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 colvar {
@@ -355,10 +355,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/eq_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/eq_100ns_protonated.pdb
     }
 }
 
@@ -386,10 +386,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -416,10 +416,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -446,10 +446,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -476,10 +476,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -506,10 +506,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -536,10 +536,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -566,10 +566,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -596,10 +596,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -626,10 +626,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -656,10 +656,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -686,10 +686,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 colvar {
@@ -716,10 +716,10 @@ colvar {
                 atomNameResidueRange { CA 443-462 }
 
             }
-            refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+            refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
             enableFitGradients off
         }
-        refPositionsFile /scratch/hbmayes_fluxod/xadams/common/in_100ns.pdb
+        refPositionsFile /Users/xadams/XylE/common/in_100ns_protonated.pdb
     }
 }
 harmonic {
