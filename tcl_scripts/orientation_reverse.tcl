@@ -12,4 +12,5 @@ for {set i $start } { $i < $n } { incr i } {
     unset angles
 }
 close $file
+cv delete
 exit

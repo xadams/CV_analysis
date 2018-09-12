@@ -11,4 +11,5 @@ for {set i 0 } { $i < $n } { incr i } {
     unset distances
 }
 close $file
+cv delete
 exit
