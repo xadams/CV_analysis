@@ -104,3 +104,6 @@ minimization.job
 namd_gpu.pbs
 template2.pbs
 template.pbs
+
+tcl_scripts:
+copy_to_md_utils.sh
